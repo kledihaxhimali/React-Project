@@ -8,16 +8,6 @@ This project provides a front-end interface for a Movie Website.
   HTML · CSS
   React ecosystem (via Create React App)
 
-📁 Project Structure
-  React-Project/
-  ├── public/               # Static assets
-  ├── src/                  # Source code (components, styles, etc.)
-  ├── package.json          # Project metadata & dependencies
-  ├── package-lock.json     # Dependency lock file
-  ├── .gitignore
-  └── README.md             # This file  
-
-
 🧩 Features Implemented (React)
 This project makes use of several essential React concepts:
 ⚛️ Functional Components
